@@ -1,2 +1,4 @@
 __pycache__
 cifar-10-*
+.ipynb_checkpoints
+preprocess_*
